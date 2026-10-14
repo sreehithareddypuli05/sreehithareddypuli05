@@ -1,3 +1,9 @@
+`<p align="center">`
+`  <img src="Futuristic%20AI%20Portfolio%20Banner.png" alt="Sreehitha Reddy Puli — AI/ML and Full-Stack Developer" width="100%">`
+`</p>`
+
+
+
 # Hi, I'm Sreehitha Reddy Puli
 
 ### Aspiring AI Engineer | Machine Learning | Generative AI | Full-Stack Development
