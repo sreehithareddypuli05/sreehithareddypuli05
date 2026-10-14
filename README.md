@@ -6,12 +6,12 @@ I'm a B.Tech Software Engineering student at **Rajiv Gandhi University of Knowle
 
 I enjoy exploring Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), multi-agent systems, computer vision, and full-stack development. My goal is to transform ideas into useful, reliable applications through continuous learning and hands-on engineering.
 
-- 🎓 **Education:** B.Tech in Software Engineering, RGUKT Ongole (2024–2028)
-- 📚 **Academic CGPA:** 9.53/10
-- 🤖 **Interests:** AI/ML, Generative AI, RAG, Multi-Agent Systems, Computer Vision
-- 💻 **Development:** Full-Stack Engineering, Backend APIs, Frontend Applications
-- 🌱 **Currently exploring:** Intelligent AI applications and production-oriented software systems
-- 🎯 **Career goal:** Grow as an AI Engineer and Software Developer
+-  **Education:** B.Tech in Software Engineering, RGUKT Ongole (2024–2028)
+-  **Academic CGPA:** 9.53/10
+-  **Interests:** AI/ML, Generative AI, RAG, Multi-Agent Systems, Computer Vision
+-  **Development:** Full-Stack Engineering, Backend APIs, Frontend Applications
+-  **Currently exploring:** Intelligent AI applications and production-oriented software systems
+-  **Career goal:** Grow as an AI Engineer and Software Developer
 
 ---
 
