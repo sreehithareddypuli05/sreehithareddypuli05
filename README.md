@@ -75,6 +75,8 @@ I enjoy exploring Artificial Intelligence, Machine Learning, Retrieval-Augmented
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sreehithareddypuli05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
+
+---
 ## Featured Projects
 
 ### 1. ResearchPilot AI — Multi-Agent Research Platform
