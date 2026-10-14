@@ -1,7 +1,4 @@
-`<p align="center">`
-`  <img src="Futuristic%20AI%20Portfolio%20Banner.png" alt="Sreehitha Reddy Puli — AI/ML and Full-Stack Developer" width="100%">`
-`</p>`
-
+![Sreehitha Reddy Puli — AI/ML and Full-Stack Developer](Futuristic%20AI%20Portfolio%20Banner.png)
 
 
 # Hi, I'm Sreehitha Reddy Puli
