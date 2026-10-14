@@ -16,35 +16,65 @@ I enjoy exploring Artificial Intelligence, Machine Learning, Retrieval-Augmented
 -  **Currently exploring:** Intelligent AI applications and production-oriented software systems
 -  **Career goal:** Grow as an AI Engineer and Software Developer
 
----
+## 🛠️ Tech Stack & Tools
 
-## Technical Skills
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
-**Programming Languages**
-- Python, Java, JavaScript, SQL
+### 🤖 AI, Machine Learning & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/LightGBM-00A86B?style=for-the-badge" alt="LightGBM">
+</p>
 
-**AI, Machine Learning & Data Science**
-- TensorFlow, Keras, Scikit-learn
-- XGBoost, LightGBM, OpenCV
-- Data preprocessing, model training, evaluation, computer vision
+### 🧠 Generative AI & Retrieval
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-6E56CF?style=for-the-badge" alt="Generative AI">
+  <img src="https://img.shields.io/badge/RAG-0B7285?style=for-the-badge" alt="Retrieval-Augmented Generation">
+  <img src="https://img.shields.io/badge/AI_Agents-155EEF?style=for-the-badge" alt="AI Agents">
+  <img src="https://img.shields.io/badge/LLMs-343A40?style=for-the-badge" alt="Large Language Models">
+</p>
 
-**Generative AI**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Vector databases and semantic search
-- AI agents and multi-agent workflows
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+</p>
 
-**Web Development**
-- React, TypeScript, Vite
-- HTML, CSS, Tailwind CSS
-- Django, FastAPI
+### 🗄️ Databases & Developer Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-**Databases & Tools**
-- PostgreSQL, SQLite
-- Git, GitHub, REST APIs
 
----
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreehithareddypuli05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub profile statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehithareddypuli05&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sreehithareddypuli05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</p>
 ## Featured Projects
 
 ### 1. ResearchPilot AI — Multi-Agent Research Platform
